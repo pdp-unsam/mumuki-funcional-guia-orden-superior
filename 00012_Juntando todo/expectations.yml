@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: esNoVacio
+  inspection: HasBinding
+- binding: esNoVacio
+  inspection: HasComposition
+- binding: esNoVacio
+  inspection: HasTypeSignature

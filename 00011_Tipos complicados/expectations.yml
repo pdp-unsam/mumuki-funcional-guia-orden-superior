@@ -1,0 +1,16 @@
+---
+expectations:
+- binding: funcionMisteriosa2
+  inspection: Not:HasBinding
+- binding: funcionMisteriosa2
+  inspection: HasTypeSignature
+- binding: funcionMisteriosa1
+  inspection: Not:HasBinding
+- binding: funcionMisteriosa1
+  inspection: HasTypeSignature
+- binding: funcionMisteriosa3
+  inspection: HasTypeSignature
+- binding: funcionMisteriosa3
+  inspection: Not:HasBinding
+- binding: ''
+  inspection: ''

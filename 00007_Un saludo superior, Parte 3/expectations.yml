@@ -1,0 +1,12 @@
+---
+expectations:
+- binding: reyQuick
+  inspection: HasBinding
+- binding: sra
+  inspection: HasBinding
+- binding: sr
+  inspection: HasBinding
+- binding: plana
+  inspection: HasBinding
+- binding: ''
+  inspection: ''
