@@ -2,5 +2,3 @@
 expectations:
 - binding: saludar
   inspection: HasBinding
-- binding: ''
-  inspection: ''

@@ -4,5 +4,3 @@ expectations:
   inspection: Not:HasBinding
 - binding: saludoDoble
   inspection: HasTypeSignature
-- binding: ''
-  inspection: ''

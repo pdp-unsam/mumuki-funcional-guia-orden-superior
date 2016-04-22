@@ -8,5 +8,3 @@ expectations:
   inspection: HasBinding
 - binding: plana
   inspection: HasBinding
-- binding: ''
-  inspection: ''
