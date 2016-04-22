@@ -7,4 +7,3 @@ describe "sumaDeDoblesSegun" $ do
     
   it "sumaDeDoblesSegun \"hola\" \"mundo\" length== 18" $ do 
     sumaDeDoblesSegun "hola" "mundo" length `shouldBe` 18
-    
